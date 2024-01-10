@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(87, 102, 102);
+    display: block;
+}
+
+input{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+input:hover{
+    background-color: rgb(243, 239, 233);
+}
+
+button{
+    font-weight: 700;
+    margin-top: 10px;
+    font-size: 1em;
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-color: rgb(131, 120, 103);
+    color: cornsilk;
+    border: none;
+    transition: 0.2s;
+}
+
+button:hover{
+    background-color: rgb(53, 107, 89);
+}
+
+form{
+    background-color: cornsilk;
+    text-align: center;
+    margin: auto;
+    max-width: 350px;
+    padding: 25px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 35px rgb(46, 46, 46);
+}

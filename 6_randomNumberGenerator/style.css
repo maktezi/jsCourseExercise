@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#rollBtn{
+    font-size: 2em;
+    padding: 5px 25px;
+    border-radius: 50px;
+}
+
+.rollLabels{
+    font-size: 5em;
+}

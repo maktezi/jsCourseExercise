@@ -1,0 +1,14 @@
+body{
+    background-color: darkgrey;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(85, 85, 85);
+    }
+
+    h1{
+        font-size: 1.5em;
+    }
+}
